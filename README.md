@@ -1,1 +1,7 @@
-# webrtc-android-app
+# WeRTC Android app
+
+Send messages without servers
+
+## license
+
+[MIT](./LICENSE)
