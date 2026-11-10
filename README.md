@@ -1,4 +1,4 @@
-# WeRTC Android app
+# WebRTC Android app
 
 Send messages without servers
 
